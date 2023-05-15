@@ -1,0 +1,59 @@
+
+--------------- SOFTWARE CONCEPTS ------------------
+
+Software : 
+  --> A series of commands that tells the computer to do a particular task
+  --> software consists of multiple commands comming together to execute a task.
+  ex: MSOffice, Tally tcc ,.
+  
+Software can be divided into three categories
+  - system software 
+  - utility software
+  - application software
+
+System software: 
+  --> system software is a software that controls the hardware parts of the computer and interacts with the application software. 
+  --> The system softwre is dependant on the system hardware and hence cannot be transferred from one machine to another. 
+  --> It is of three types 
+      1) Operating systems
+      2) Language processor 
+            Assembler -- Translates the assembly language to machine language program
+            Interpeter -- Translates high level language to machine level language line by line. 
+            Compiler -- Translates high level language to machine level lanhhuage at one go.
+      3) Device Drivers
+            It is the software that instructs, monitors and controls the functioning of a specific device on the computer.  
+ 
+ Operating Systems:
+   --> An operating system is a type of system sofware which acts as a communication bridge between the computer hardware and the 
+   end-user.
+   -->It manages the computer momery and tasks running on it. 
+   --> it is the first software thet is loaded in the computer memory when booted. 
+   --> Responsible for resourse management, conflict resolution and operation control.
+   ex: linux, Windows etc,.
+  
+  Functions of operating system:
+       1) Memory Management
+       2) File Management
+       3) Security and protection
+       4) Process management
+       5) User Interface
+       6) Device management
+       
+  Types of operating systems:
+      1) GUI OS
+            -- Modern operating systems use a graphic user interface or GUI
+            -- Using the combination graphic and text, every thing is displayed clearly on the screen 
+      2) Time-sharing OS
+            -- Time sharing or multi tasking OS enables people located at different terminals or shells to work at the same time on 
+            a single computer.
+      3) Real Time OS
+            -- In this the time to process the inout and give out the response is very small. These are generally used in Military 
+            and space software systems.
+      4) Distributed OS
+            -- It uses many processors located in different locations to provide faster responses or results to users.
+      5) Network OS
+            -- It serves to manage data, Users, Groups, security, appliations and other networking functions 
+      6) Batch OS
+            -- To reduce the processing time and increse the effeciency, jobs with similar needs are batched together and processed.
+      7) Mobile OS
+            -- OS which is specially designed to power tablets, smartphones and werable devices
